@@ -4,3 +4,5 @@ This is a Udemy data science course project, I did some extra work on this datas
 The plotly and cufflink packages do not work on github site, I made some beautiful interactive graphs, but now you need to use your imagnation for those graphs.
 
 'all_banks' is the data file, it is stored as pickle, so use pd.read_pickle() function to read in the data
+
+*Refresh your browser page if can't load the code the first time 
